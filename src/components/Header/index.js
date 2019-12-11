@@ -5,7 +5,7 @@ import { Container } from './styles';
 export default function Header() {
     return (
         <Container>
-            <h1>Home</h1>
+            <h1>JSHunt Application</h1>
         </Container>
     );
 }

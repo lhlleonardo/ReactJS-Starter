@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Redux Rocketshoes" src="https://www.traininginstitutepune.in/wp-content/uploads/2019/10/react-js-banner.png" />
+    <img alt="Redux Rocketshoes" style="max-height:200px;" src="https://coursework.vschool.io/content/images/size/w2000/2017/08/react-banner.png" />
 </h1>
 <h1>ReactJS starter application</h1>
 <h2>Repository for ReactJS simple application.</h2>

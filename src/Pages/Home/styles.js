@@ -26,9 +26,9 @@ export const Container = styled.div`
 
         > a {
             &:hover {
-                background: #495464;
+                background: #206a5d;
                 color: #f4f4f2;
-                border: 2px solid #495464;
+                border: 2px solid #206a5d;
             }
 
             height: 42px;

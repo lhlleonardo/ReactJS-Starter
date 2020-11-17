@@ -58,7 +58,7 @@ export default class Home extends Component {
                     <strong>{product.title}</strong>
                     <p>{product.description}</p>
 
-                    <Link to={`/products/${product._id}`} >Acess</Link>
+                    <Link to={`/products/${product._id}`} >Access</Link>
                 </article>
                 ))}
                 <div>

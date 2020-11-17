@@ -26,16 +26,18 @@ export const Container = styled.div`
 
         > a {
             &:hover {
-                background: #ebf5fa;
+                background: #495464;
+                color: #f4f4f2;
+                border: 2px solid #495464;
             }
 
             height: 42px;
             border-radius: 5px;
-            border: 2px solid #006fbb;
+            border: 2px solid #191920;
             background: none;
             margin-top: 10px;
 
-            color: #006fbb;
+            color: #191920;
             font-weight: bold;
             font-size: 15px;
             text-decoration: none;
@@ -55,16 +57,17 @@ export const Container = styled.div`
 
         button {
             &:hover {
-                background: #084e8a;
+                background: #206a5d;
             }
 
             padding: 10px;
             border-radius: 10px;
             border: 0;
-            background: #001429;
+            background: #191920;
             color: #fff;
             font-size: 15px;
             font-weight: bold;
+            transition: all 0.3s;
         }
 
         button:disabled {
